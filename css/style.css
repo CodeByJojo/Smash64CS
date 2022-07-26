@@ -22,9 +22,31 @@
 /*******************************************/
 
 body {
-
+  background-color: gray;
 }
 
+nav {
+  display: flex;
+  justify-content: center;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+}
+
+main img {
+  width: 7%;
+}
+
+section img {
+  min-width: 10%;
+  margin: 0 auto;
+}
+
+section {
+  border: 2px red solid;
+}
 
 
 
