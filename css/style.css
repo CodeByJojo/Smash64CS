@@ -40,8 +40,9 @@ main img {
 }
 
 section img {
-  min-width: 10%;
-  margin: 0 auto;
+  height: 380px;
+  display: flex;
+  justify-content: center;
 }
 
 section {
@@ -54,13 +55,7 @@ section {
 /******************************************
 /* LAYOUT
 /*******************************************/
-header {
 
-}
-
-footer {
-
-}
 
 
 
